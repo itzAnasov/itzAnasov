@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Anas.
-- 👀 I’m interested in app development
-- 🌱 I’m currently trying to master android development
-- 💞️ I’m looking to collaborate on android studio projects.
-- 📫 How to reach me email me, anasybal@mail.ru
-- ↗ Website, [ananas-software.ml](https://ananas-software.ml/index.php)
-
+<div align="center">
+  <h1>YOUR ARE NOT WELCOME TO BE HERE</h1>
+  <h2>GET THE F*CK OUTTA HERE !</h2>
+</div>
